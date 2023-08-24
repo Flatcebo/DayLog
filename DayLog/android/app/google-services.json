@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "500572789711",
+    "project_id": "day-log-b7a11",
+    "storage_bucket": "day-log-b7a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500572789711:android:84f4d309fe6d3f622dd0ba",
+        "android_client_info": {
+          "package_name": "com.daylog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500572789711-gl1n04to585ashb8ancijqnbee52f7fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daylog",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "500572789711-8mqr03er9avhmbvp075rhcoab1cueqmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZtVeeIRrBco_uML-NJEPI8WUL4tD04LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500572789711-8mqr03er9avhmbvp075rhcoab1cueqmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
